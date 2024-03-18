@@ -312,5 +312,3 @@ LocalGPT ist ein Open-Source-Projekt und wir begrüßen Beiträge von der Commun
 
 LocalGPT ist unter der [MIT-Lizenz](https://github.com/PromtEngineer/localGPT/blob/main/LICENSE) lizenziert.
 ```
-
-Ich hoffe, diese Anleitung ist hilfreich für Sie! Wenn Sie weitere Fragen haben oder Unterstützung benötigen, lassen Sie es mich wissen!
